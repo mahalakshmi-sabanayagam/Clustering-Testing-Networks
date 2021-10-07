@@ -1,0 +1,9 @@
+numpy
+torch
+networkx
+sklearn
+scipy
+cvxpy
+wwl
+pyunlocbox
+graspologic
